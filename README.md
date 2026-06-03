@@ -2,7 +2,8 @@
 ### LLM Tutorial Materials
 
 > **PRISM-AI InnoCORE Research Center, KAIST**  
-> Dept. of Mechanical Engineering · June 4–5, 2026
+> Dept. of Mechanical Engineering · June 4–5, 2026  
+> 🗣 Sessions conducted in **Korean** · AI simultaneous interpretation into **English** will be provided
 
 ---
 
