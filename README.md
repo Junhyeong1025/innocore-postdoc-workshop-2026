@@ -64,10 +64,19 @@ All notebooks run on **Google Colab** — no local setup required. Replace `"YOU
 | [Tutorial 2 — RAG](PRISM-AI%20Tutorial_2.ipynb) | Document loading, text splitting, FAISS vector store, RAG chain, conversational RAG |
 | [Tutorial 3 — Multi-agent Systems](PRISM-AI%20Tutorial_3.ipynb) | LangGraph (StateGraph, conditional edges, ReAct agent, Supervisor pattern), AutoGen (RoundRobin, SelectorGroupChat, tool-using agents) |
 
+### Getting an OpenAI API Key
+
+1. Go to [https://platform.openai.com](https://platform.openai.com) and sign up / log in
+2. Click your profile icon (top-right) → **API keys** → **Create new secret key**
+3. Copy the key (starts with `sk-...`) — it won't be shown again
+4. Add credits: **Settings → Billing → Add payment method** (minimum $5)
+
+> ⚠️ Never share your API key or commit it to a public repository.
+
 ### Quick Start (Colab)
 
 1. Open any notebook via the links above (or Google Colab → File → Open notebook → GitHub tab)
-2. Set your API key:
+2. Set your API key in the first cell:
    ```python
    import os
    os.environ['OPENAI_API_KEY'] = "sk-..."
