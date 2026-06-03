@@ -26,10 +26,10 @@ This repository contains hands-on tutorial notebooks for the **LLM lecture sessi
 |------|---------|-------|
 | 13:30 – 14:00 | Registration & Check-in | KAIST 기계공학동 대회의실 |
 | 14:00 – 15:00 | **Invited Lecture** — *"Postdoc Career Development"* · [Prof. Yoon Young Kim](https://www.yykimlab.net/) | KAIST 기계공학동 대회의실 |
-| 15:00 – 16:00 | **InnoCORE Program Talk & Q&A** · Prof. Seunghwa Ryu (Director) | KAIST 기계공학동 대회의실 |
+| 15:00 – 16:00 | **InnoCORE Program Talk & Q&A** · [Prof. Seunghwa Ryu](https://sites.google.com/site/seunghwalab/) (Director) | KAIST 기계공학동 대회의실 |
 | 16:00 – 16:30 | Coffee Break | 중앙회의동 해동정보홀 |
 | 16:30 – 18:00 | **Poster Session** — postdoc research presentations | 중앙회의동 해동정보홀 |
-| 18:00 – | Dinner & Career Consulting | Nearby restaurant |
+| 18:00 – | Dinner & Career Consulting | [만년동 일정](https://naver.me/5S94wfmr) |
 
 ### Day 2 — Friday, June 5
 
@@ -50,7 +50,7 @@ This repository contains hands-on tutorial notebooks for the **LLM lecture sessi
 | KAIST 기계공학동 대회의실 | Day 1 — Invited lecture, InnoCORE Q&A |
 | KAIST 중앙회의동 해동정보홀 | Day 1 — Coffee break, Poster session · Day 2 — LLM lectures |
 | KAIST 카이마루 | Day 2 — Lunch |
-| Nearby restaurant (TBD) | Day 1 — Dinner & career consulting |
+| [만년동 일정](https://naver.me/5S94wfmr) | Day 1 — Dinner & career consulting |
 
 ---
 
