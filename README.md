@@ -96,16 +96,27 @@ All notebooks run on **Google Colab** — no local setup required. Replace `"YOU
    ```
 3. Run all cells top to bottom
 
-### Opening Notebooks from this Repository in Colab
+### Opening Notebooks via Google Drive (Recommended)
 
+**Step 1 — Download the notebook**
 1. Click the notebook link in the table above
 2. On the GitHub preview page, click the **Download raw file** button (↓ icon, top-right)
 3. Save the `.ipynb` file to your computer
-4. Go to [colab.research.google.com](https://colab.research.google.com)
-5. Click **File → Upload notebook** → select the downloaded `.ipynb` file
-6. Set your API key in the first cell and run!
 
-> 💡 Alternatively: **File → Open notebook → GitHub tab** → paste this repo's URL
+**Step 2 — Upload to Google Drive**
+1. Go to [drive.google.com](https://drive.google.com)
+2. Create a folder (e.g. `PRISM-AI Workshop`) and open it
+3. Drag and drop the `.ipynb` file into the folder
+
+**Step 3 — Open in Colab**
+1. Double-click the `.ipynb` file in Drive
+2. It should open automatically in Google Colab
+
+> ⚠️ **If the file doesn't open in Colab** (opens as plain text instead):
+> Colab may not be installed as a connected app. Fix it once:
+> 1. In Google Drive, click **+ New → More → Connect more apps**
+> 2. Search for **"Colaboratory"** and click **Install**
+> 3. Click **OK** → now double-clicking any `.ipynb` will open Colab automatically
 
 ---
 
