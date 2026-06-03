@@ -33,11 +33,11 @@ This repository contains hands-on tutorial notebooks for the **LLM lecture sessi
 | 16:30 – 18:00 | **Poster Session** — postdoc research presentations | 중앙회의동 해동정보홀 |
 | 18:00 – | Dinner & Career Consulting | [만년동 일정](https://naver.me/5S94wfmr) |
 | | **Career Consulting Mentors:** | |
-| | &nbsp;&nbsp;· [Prof. Jeonghwan Yoon](https://pure.kaist.ac.kr/en/persons/jeong-whan-yoon/) (KAIST) | |
+| | &nbsp;&nbsp;· [Prof. Jeong Whan Yoon](https://pure.kaist.ac.kr/en/persons/jeong-whan-yoon/) (KAIST) | |
 | | &nbsp;&nbsp;· [Prof. Ikjin Lee](https://mo.kaist.ac.kr/en/professor/ikjin-lee/) (KAIST) | |
 | | &nbsp;&nbsp;· [Prof. Seungchul Lee](https://me.kaist.ac.kr/eng/pop/team.html?uid=117&LANGUAGE_TYPE=eng) (KAIST) | |
 | | &nbsp;&nbsp;· [Prof. Namwoo Kang](https://www.smartdesignlab.org/) (KAIST) | |
-| | &nbsp;&nbsp;· [Prof. Kyungtae Lim](https://ct.kaist.ac.kr/boards/view/faculty_board_en/4247) (KAIST) | |
+| | &nbsp;&nbsp;· [Prof. KyungTae Lim](https://ct.kaist.ac.kr/boards/view/faculty_board_en/4247) (KAIST) | |
 | | &nbsp;&nbsp;· [Prof. Seunghwa Ryu](https://sites.google.com/site/seunghwalab/) (KAIST) | |
 | | &nbsp;&nbsp;· Dr. Jaemin Lee (Senior Researcher, Agency for Defense Development) | |
 
