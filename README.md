@@ -27,18 +27,18 @@ This repository contains hands-on tutorial notebooks for the **LLM lecture sessi
 |------|---------|-------|
 | 13:30 – 14:00 | Registration & Check-in | KAIST 기계공학동 대회의실 |
 | 14:00 – 15:00 | **Invited Lecture** — *"Postdoc Career Development"* · [Prof. Yoon Young Kim](https://www.yykimlab.net/) | KAIST 기계공학동 대회의실 |
-| 15:00 – 15:30 | **InnoCORE Program Talk & Q&A** · [Prof. Seunghwa Ryu](https://sites.google.com/site/seunghwalab/) (Director) | KAIST 기계공학동 대회의실 |
+| 15:00 – 15:30 | **InnoCORE Program Talk & Q&A** · [Prof. Seunghwa Ryu](https://sites.google.com/site/seunghwalab/home?authuser=0) (Director) | KAIST 기계공학동 대회의실 |
 | 15:30 – 16:00 | **Program Introduction** · Staff | KAIST 기계공학동 대회의실 |
 | 16:00 – 16:30 | Coffee Break | 중앙회의동 해동정보홀 |
 | 16:30 – 18:00 | **Poster Session** — postdoc research presentations | 중앙회의동 해동정보홀 |
 | 18:00 – | Dinner & Career Consulting | [만년동 일정](https://naver.me/5S94wfmr) |
 | | **Career Consulting Mentors:** | |
-| | &nbsp;&nbsp;· [Prof. Jeong Whan Yoon](https://pure.kaist.ac.kr/en/persons/jeong-whan-yoon/) (KAIST) | |
-| | &nbsp;&nbsp;· [Prof. Ikjin Lee](https://mo.kaist.ac.kr/en/professor/ikjin-lee/) (KAIST) | |
-| | &nbsp;&nbsp;· [Prof. Seungchul Lee](https://me.kaist.ac.kr/eng/pop/team.html?uid=117&LANGUAGE_TYPE=eng) (KAIST) | |
+| | &nbsp;&nbsp;· [Prof. Jeong Whan Yoon](https://canesm.kaist.ac.kr/) (KAIST) | |
+| | &nbsp;&nbsp;· [Prof. Ikjin Lee](http://idol.kaist.ac.kr/) (KAIST) | |
+| | &nbsp;&nbsp;· [Prof. Seungchul Lee](https://iailab.kaist.ac.kr/) (KAIST) | |
 | | &nbsp;&nbsp;· [Prof. Namwoo Kang](https://www.smartdesignlab.org/) (KAIST) | |
-| | &nbsp;&nbsp;· [Prof. KyungTae Lim](https://ct.kaist.ac.kr/boards/view/faculty_board_en/4247) (KAIST) | |
-| | &nbsp;&nbsp;· [Prof. Seunghwa Ryu](https://sites.google.com/site/seunghwalab/) (KAIST) | |
+| | &nbsp;&nbsp;· [Prof. KyungTae Lim](https://sites.google.com/view/aailab) (KAIST) | |
+| | &nbsp;&nbsp;· [Prof. Seunghwa Ryu](https://sites.google.com/site/seunghwalab/home?authuser=0) (KAIST) | |
 | | &nbsp;&nbsp;· Dr. Jaemin Lee (Senior Researcher, Agency for Defense Development) | |
 
 ### Day 2 — Friday, June 5
