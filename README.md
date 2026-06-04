@@ -11,7 +11,10 @@
 | | |
 |-|-|
 | **Network** | `welcome_kaist` |
+| **ID** | `kaist_innocore` |
 | **Password** | `prismai1!` |
+
+> If you have trouble connecting, please use your personal mobile data or hotspot.
 
 ---
 
