@@ -1,5 +1,7 @@
 # 2026 PRISM-AI InnoCORE Workshop
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 > **PRISM-AI InnoCORE Research Center, KAIST**  
 > Dept. of Mechanical Engineering · June 4–5, 2026  
 > 🗣 Sessions conducted in **Korean** · AI simultaneous interpretation into **English** will be provided
