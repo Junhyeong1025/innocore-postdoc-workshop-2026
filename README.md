@@ -58,9 +58,10 @@ This repository contains hands-on tutorial notebooks for the **LLM lecture sessi
 
 | Time | Program | Venue |
 |------|---------|-------|
-| 10:00 – 12:00 | **LLM Lecture (1)** | 중앙회의동 해동정보홀 |
+| 10:00 – 12:00 | **LLM Lecture (1)** · [Slides](260605_%EC%9B%8C%ED%81%AC%EC%88%8D%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) | 중앙회의동 해동정보홀 |
 | | &nbsp;&nbsp;· Colab environment setup + LangChain tutorial · Jonmin Park, Ph.D. (PRISM-AI) | |
 | | &nbsp;&nbsp;· RAG tutorial · Junhyeong Lee, Ph.D. (PRISM-AI) | |
+| | &nbsp;&nbsp;· Reference reading · [*Before You Build a Multi-Agent System: An Escalation Framework for LLM Adaptation*](perspective_paper.pdf) | |
 | 12:00 – 13:00 | Lunch | KAIST 카이마루 |
 | 13:00 – 15:00 | **LLM Lecture (2)** | 중앙회의동 해동정보홀 |
 | | &nbsp;&nbsp;· Multi-agent system development · Junhyeong Lee, Ph.D. (PRISM-AI) | |
