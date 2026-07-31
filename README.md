@@ -65,7 +65,7 @@ This repository contains hands-on tutorial notebooks for the **LLM lecture sessi
 | 12:00 – 13:00 | Lunch | KAIST 카이마루 |
 | 13:00 – 15:00 | **LLM Lecture (2)** | 중앙회의동 해동정보홀 |
 | | &nbsp;&nbsp;· Multi-agent system development · Junhyeong Lee, Ph.D. (PRISM-AI) | |
-| | &nbsp;&nbsp;· Vibe coding tools · Hyeok Jae Chae, Wonjong Jeong (PRISM-AI) · [Materials](vibecoding_codex_example_WonjongJeong.pdf) | |
+| | &nbsp;&nbsp;· Vibe coding tools · Hyeok Jae Chae, Wonjong Jeong (PRISM-AI) · [Slides — Claude Code, MCP & Skills](2026_06_05_%EC%9B%8C%ED%81%AC%EC%83%B5_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_claude_code.pdf) · [Codex example](vibecoding_codex_example_WonjongJeong.pdf) | |
 
 > ※ Schedule is subject to minor changes.
 
